@@ -1,6 +1,13 @@
 # Collection of jQuery Plugins
 
-That we use in projects
+That we use in projects, to keep the main app's assets tidy.
+
+Install:
+
+```ruby
+# Gemfile
+gem "jquery-assets"
+```
 
 
 ## iButton jQuery Plugin
@@ -19,4 +26,10 @@ require jquery.metadata    // optional
 /* require in application.css on of the: */
 require jquery.ibutton
 require jquery.ibutton-giva-original
+
+```
+Using:
+``` javascript
+$(":checkbox").iButton({})
+```
 
