@@ -33,3 +33,22 @@ Using:
 $(":checkbox").iButton({})
 ```
 
+
+
+## jQuery qTip2
+
+
+http://craigsworks.com/projects/qtip2
+
+including all plugins and styles
+
+in each manifest of both css and js:
+```
+require jquery.qtip
+```
+
+Basic Usage:
+```javascript
+$('a[title]').qtip()
+```
+see http://craigsworks.com/projects/qtip2/docs/
