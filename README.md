@@ -52,3 +52,16 @@ Basic Usage:
 $('a[title]').qtip()
 ```
 see http://craigsworks.com/projects/qtip2/docs/
+
+
+## Ariso Jquery UI Theme
+
+nice and serious theme for jQuery UI
+
+https://github.com/taitems/Aristo-jQuery-UI-Theme
+
+in application.css
+
+```css
+ *= require jquery-ui-aristo
+```

@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "jquery-assets"
-  s.version     = "0.2"
+  s.version     = "0.3"
   s.authors     = ["Stefan Wienert"]
   s.email       = ["stefan.wienert@pludoni.de"]
   s.homepage    = "https://github.com/zealot128/jquery-assets"
